@@ -46,5 +46,5 @@ Code released under the [MIT License][License], which means you can use it prett
 
 These materials are not sponsored by or affiliated with Unity Technologies or its affiliates. "Unity" is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
 
-[License]: LICENSE.md
+[License]: LICENSE
 [License-Badge]: https://img.shields.io/github/license/ExtendRealityLtd/VRTK.svg
